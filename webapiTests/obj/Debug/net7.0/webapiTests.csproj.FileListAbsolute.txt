@@ -1,0 +1,6 @@
+C:\Users\Gvidas\Documents\GitHub\Internship\Solution2\webapiTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Gvidas\Documents\GitHub\Internship\Solution2\webapiTests\obj\Debug\net7.0\webapiTests.csproj.AssemblyReference.cache
+C:\Users\Gvidas\Documents\GitHub\Internship\Solution2\webapiTests\obj\Debug\net7.0\webapiTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gvidas\Documents\GitHub\Internship\Solution2\webapiTests\obj\Debug\net7.0\webapiTests.AssemblyInfoInputs.cache
+C:\Users\Gvidas\Documents\GitHub\Internship\Solution2\webapiTests\obj\Debug\net7.0\webapiTests.AssemblyInfo.cs
+C:\Users\Gvidas\Documents\GitHub\Internship\Solution2\webapiTests\obj\Debug\net7.0\webapiTests.csproj.CoreCompileInputs.cache
